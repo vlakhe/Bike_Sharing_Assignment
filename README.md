@@ -28,7 +28,7 @@ Based on various meteorological surveys and people's styles, the service provide
 
 ## Conclusions
 - Demand of bike increases every year 
-- Demand of bike increases 
+- Demand of bike increases in the month of May, June , July Aug , Sep and Oct. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
